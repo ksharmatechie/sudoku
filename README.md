@@ -37,7 +37,9 @@ mvn surefire-report:report
 ## in order to launch
 
 As it said, please use validate.bat or validate.sh
-type on terminal sudovalidate.bat validFile.txt ** It will give VALID as output
 
 
-type on terminal sudovalidate.bat nonValidFile.txt ** It will give INVALID as output
+type on terminal validate.bat validFile.txt ** It will give VALID as output
+
+
+type on terminal validate.bat nonValidFile.txt ** It will give INVALID as output
