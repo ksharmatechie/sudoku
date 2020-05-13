@@ -1,0 +1,3 @@
+com\sudoku\adapter\CsvAdapter.class
+com\sudoku\adapter\exception\InvalidFileException.class
+com\sudoku\SudokuApplication.class
